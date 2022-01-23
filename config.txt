@@ -1,0 +1,3 @@
+token=OTM0NDMwODYwNDA3NjA3MzM2.Yev-jg.kXHWjw0vkiFrf7lCMR8tFvVv_D8
+owner=934430860407607336
+prefix = "!"
